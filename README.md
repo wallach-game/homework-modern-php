@@ -1,3 +1,12 @@
+### Reseni, 06.12.2022
+Jsou to soubory generateInput.php, Program.php, input.txt.
+
+cmds:
+
+php program.php input.txt 
+php generateInput.php 999999
+
+
 ### Zadání
 Napiště "univerzální" program, který přečte libovolně dlouhý textový soubor.
 Řádek po řádku bude aplikovat uživatelské filtry a dekorátory. Výstupem programu
