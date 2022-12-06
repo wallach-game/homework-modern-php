@@ -4,6 +4,7 @@ Jsou to soubory generateInput.php, Program.php, input.txt.
 cmds:
 
 php program.php input.txt 
+
 php generateInput.php 999999
 
 
